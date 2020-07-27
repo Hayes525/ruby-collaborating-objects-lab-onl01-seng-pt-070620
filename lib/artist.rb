@@ -60,4 +60,4 @@ class Artist
   end
 
 end
-artist.all
+Artist.all
