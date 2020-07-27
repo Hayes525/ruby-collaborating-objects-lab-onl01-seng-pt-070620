@@ -58,6 +58,9 @@ class Artist
   def print_songs()
     puts @songs.collect {|x| x.name}
   end
+  def self.all()
+    puts self.all
+  end 
 
 end
-Artist.all
+
