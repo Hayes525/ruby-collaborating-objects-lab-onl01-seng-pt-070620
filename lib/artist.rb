@@ -60,7 +60,6 @@ class Artist
   end
   def self.all()
     puts self.all
-  end 
+  end
 
 end
-
